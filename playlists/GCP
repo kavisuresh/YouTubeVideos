@@ -1,0 +1,44 @@
+Create, stop, start and delete VM instance in GCP using Console
+Create, stop, start, and delete VM instance in GCP using gcloud CLI
+Creating and deleting VPC networks in GCP using Console
+Creating and deleting VPC networks in GCP using gcloud CLI
+Creating and deleting GKE Clusters in GCP using Console
+Creating and deleting VM instances in GCP using Ansible Playbook
+Create, modify and delete VM instance in GCP using Terraform
+Creating and deleting GKE Clusters in GCP using gcloud CLI
+Creating and deleting Cloud Storage in GCP using console
+Creating and deleting Cloud Storage in GCP using gcloud CLI
+Creating and deleting SQL instances, databases and users in GCP using console
+Deploying a Go service to Cloud Run
+Deploying a Node.js service to Cloud Run
+Deploying a Go HTTP Cloud Function in GCP using Console
+Deploying a Python HTTP Cloud Function in GCP using Console
+Deploying a Java HTTP Cloud Function in GCP using Console
+Deploying a Node.js HTTP Cloud Function in GCP using Console
+Deploying a PHP HTTP Cloud Function in GCP using Console
+Creating and deleting instance templates in GCP using Console
+Creating and deleting Storage Buckets in GCP using Crossplane
+Using Crossplane Composition to create S3 Bucket in AWS and Storage Bucket in GCP
+GCP Cloud Source Repositories:Creating repository and pushing code from the git repository using SSH
+GCP Cloud Source Repositories: Creating repository and pushing code from git repository using SDK
+GCP Cloud Source Repositories: Create repository, clone, commit and push code -generated credentials
+GCP Cloud Source Repositories: Mirroring a GitHub Repository
+Building and pushing a Docker image with Cloud Build to Artifact Registry
+Building and Deploying a NodeJS application as Docker image to Cloud Run using Cloud Build
+Deploying a NodeJS application to App Engine using Cloud Build
+Deploying a NodeJS application to Google Kubernetes Engine using Cloud Build
+Reserving and Releasing External Static IP Addresses in GCP using Console
+Creating custom machine image from VM instance in GCP Using Console
+Creating custom machine image from VM instance in GCP Using gcloud CLI
+Creating Managed Instance Groups in GCP using Console
+Creating Application Load Balancer in GCP using Console
+Deploying multiple versions of Python application to App Engine and split traffic among the versions
+Creating and deleting Cloud Spanner instances and databases in GCP using console
+Creating and deleting Pub/Sub Topics and Subscriptions in GCP using Console
+Creating and deleting Memorystore Redis instances in GCP using Console
+Creating and deleting repositories in GCP Artifact Registry using Console
+Creating and deleting repositories in GCP Artifact Registry using gcloud CLI
+Using Application Integration in GCP to send email based on configured schedule
+GitHub Copilot:Generate terraform code to create VM instance in GCP
+Amazon CodeWhisperer :Generate terraform code to create VM instance in GCP
+Codeium: Generate terraform code to create VM instance in GCP
